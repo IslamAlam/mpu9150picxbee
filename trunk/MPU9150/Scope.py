@@ -17,6 +17,7 @@ class Scope:
         self.tdata = [0]
         self.ydata = [0]
         self.line = Line2D(self.tdata, self.ydata)
+        self.line.set_linewidth(5)
         self.ax.add_line(self.line)
         #self.ax.set_ylim(-1.1, 1.1)
         self.ax.set_xlim(0, self.maxt)
