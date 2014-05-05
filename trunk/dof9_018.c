@@ -1,6 +1,6 @@
 /* 
  * File:   dof9_018.c
- * Author: kollmaj
+ * Author: John Kollman
  *
  * 
  */
