@@ -1,4 +1,4 @@
-#summary DIY PIC18 Controlled PUMP
+#summary DIY 9DOF wireless
 
 = Introduction =
 
